@@ -28,4 +28,8 @@ public class YASC extends PApplet
 		ship1.render();
 		ship1.move();
 	}
+
+	//write a for loop to print the numbers 1-10
+
+	
 }

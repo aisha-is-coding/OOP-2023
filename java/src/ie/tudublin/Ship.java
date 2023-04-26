@@ -18,8 +18,6 @@ public class Ship {
         this.p = p;  
     }
 
-
-
     public PVector getPos() {
         return pos;
     }
@@ -96,4 +94,8 @@ public class Ship {
 
     
     
+}
+
+public class aShip extends Ship {
+
 }
