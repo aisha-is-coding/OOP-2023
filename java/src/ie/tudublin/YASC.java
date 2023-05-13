@@ -115,7 +115,7 @@ public class YASC extends PApplet
 
 	}
 
-	//write a for loop to print the numbers 1-10
+
 
 	
 }
